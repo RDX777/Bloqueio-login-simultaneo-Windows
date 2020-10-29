@@ -1,5 +1,5 @@
 # Bloqueio-login-simultaneo-Windows
-Realiza o logoff de logins logadas em mais de uma maquina em um domínio.
+Realiza o logoff de logins de usuarios em mais de uma maquina em um domínio.
 
 
 Como usar:
