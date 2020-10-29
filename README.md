@@ -4,7 +4,7 @@ Realiza o logoff de logins de usuarios em mais de uma maquina em um domínio.
 
 Como usar:
 
-Este scrip podera ser usado em GPO.
+Este script podera ser usado em GPO.
 
 cscript LoginSimultaneo.vbs <Parametro>
 
